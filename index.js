@@ -1,8 +1,8 @@
-'use strict';
+'use strict'
 
-var coffeecup = require('coffeecup');
+var coffeecup = require('coffeecup')
 
-exports.name = 'coffeecup';
-exports.outputFormat = 'html';
+exports.name = 'coffeecup'
+exports.outputFormat = 'html'
 
-exports.render = coffeecup.render;
+exports.render = coffeecup.render
